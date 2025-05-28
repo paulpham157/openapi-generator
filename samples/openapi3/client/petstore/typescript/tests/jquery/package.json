@@ -5,15 +5,15 @@
     "@types/qunit": "^2.9.0",
     "@types/rewire": "^2.5.28",
     "form-data": "^2.5.1",
-    "jsdom": "^15.0.0",
+    "jsdom": "^26.1.0",
     "node-qunit-puppeteer": "^1.0.12",
     "qunit": "^2.9.2",
     "requirejs": "^2.3.6",
-    "rewire": "^4.0.1",
+    "rewire": "^7.0.0",
     "ts-node": "^3.3.0",
     "ts-petstore-client": "file:../../builds/jquery",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
   },
   "scripts": {
     "test": "node ./dist/test-runner.js",
