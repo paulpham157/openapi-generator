@@ -17,14 +17,14 @@
     "build": "ng-packagr -p ng-package.json"
   },
   "peerDependencies": {
-    "@angular/core": "^13.0.1",
+    "@angular/core": "^21.1.5",
     "rxjs": "^7.4.0"
   },
   "devDependencies": {
     "@angular/common": "^13.0.1",
     "@angular/compiler": "^13.0.1",
     "@angular/compiler-cli": "^13.0.1",
-    "@angular/core": "^13.0.1",
+    "@angular/core": "^21.1.5",
     "@angular/platform-browser": "^13.0.1",
     "ng-packagr": "^13.0.3",
     "reflect-metadata": "^0.1.3",
