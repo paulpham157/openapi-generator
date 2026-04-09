@@ -154,7 +154,7 @@
     <logback.version>1.5.13</logback.version>
     <cxf.version>3.2.7</cxf.version>
     <jackson.jaxrs.version>2.17.1</jackson.jaxrs.version>
-    <jackson.version>2.17.1</jackson.version>
+    <jackson.version>2.18.6</jackson.version>
     <jakarta.activation.version>2.1.0</jakarta.activation.version>
     <jakarta.annotation.version>2.0.0</jakarta.annotation.version>
     <jakarta.json.bind.version>3.0.0</jakarta.json.bind.version>
